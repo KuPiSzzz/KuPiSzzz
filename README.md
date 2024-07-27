@@ -11,7 +11,8 @@ I am an Automation and Robotics Engineer with a deep passion for sports and codi
 - ⚡ Fun Fact: I love combining technical knowledge with practical applications in everyday life.
 
 ## Technologies & Tools
-![](https://img.shields.io/badge/code-Java-F89820?style=flat-square&logo=java&logoColor=white)
+![](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+)
 ![](https://img.shields.io/badge/database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/database-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/frontend-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
