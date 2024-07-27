@@ -1,14 +1,15 @@
-# Witaj na moim profilu GitHub!
+# Welcome to my GitHub profile!
 
-## O mnie
-Jestem inżynierem automatyki i robotyki, z głęboką pasją do sportu oraz kodowania. Aktualnie skupiam się na rozwijaniu swoich umiejętności programistycznych oraz szeroko pojętej wiedzy z branży IT.
+## About Me
+I am an Automation and Robotics Engineer with a deep passion for sports and coding. Currently, I am focusing on developing my programming skills and broadening my knowledge in the IT industry.
 
-- 🔭 Specjalizuję się w tworzeniu ,,od zera'' robotów mobilnych.
-- 🌱 Obecne technologie, z których kotrzystam to **Java**, **MySQL**, **PostgreSQL**. **HTML**, **CSS**, oraz **JavaScript**.
-- 💼 Posiadam solidne doświadczenie w pracy z **C** oraz **C++**.
-- 🏋️‍♂️ Moją największą pasją jest trening siłowy, nie tylko jako forma relaksu, ale również bodziec, który uczy mnie dyscypliny i determinacji - cech, które są równie ważne w świecie technologii.
-- 📫 Możesz się ze mną skontaktować wysyłając email: [kupisz2013@gmail.com](mailto:kupisz2013@gmail.com)
-- ⚡ Ciekawostka: Uwielbiam łączyć wiedzę techniczną z praktycznymi zastosowaniami w życiu codziennym.
+- 🔭 I specialize in creating mobile robots from scratch.
+- 🌱 The current technologies I use include **Java**, **MySQL**, **PostgreSQL**, **HTML**, **CSS**, and **JavaScript**.
+- 💼 I have substantial experience working with **C** and **C++**.
+- 🏋️‍♂️ My greatest passion is strength training, not only as a form of relaxation but also as a stimulus that teaches me discipline and determination—traits that are equally important in the world of technology.
+- 📫 You can contact me by sending an email to: [kupisz2013@gmail.com](mailto:kupisz2013@gmail.com)
+- ⚡ Fun Fact: I love combining technical knowledge with practical applications in everyday life.
+
 
 ## Moje statystyki GitHub
 ![KuPiSzzz GitHub stats](https://github-readme-stats.vercel.app/api?username=KuPiSzzz&show_icons=true)
