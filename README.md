@@ -11,5 +11,5 @@ Jestem inżynierem automatyki i robotyki, z głęboką pasją do sportu oraz kod
 - ⚡ Ciekawostka: Uwielbiam łączyć wiedzę techniczną z praktycznymi zastosowaniami w życiu codziennym.
 
 ## Moje statystyki GitHub
-![KuPiSzzz GitHub stats](https://github-readme-stats.vercel.app/api?username=twojaNazwaUżytkownika&show_icons=true)
+![KuPiSzzz GitHub stats](https://github-readme-stats.vercel.app/api?username=KuPiSzzz&show_icons=true)
 
