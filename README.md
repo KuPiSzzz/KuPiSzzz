@@ -20,7 +20,6 @@ I'm currently pursuing a Master's degree in **Computer Science** at **PJATK (Pol
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![SQL Developer](https://img.shields.io/badge/-SQL_Developer-CC2927?style=flat-square&logo=oracle&logoColor=white)
 
 ### ☁️ DevOps / Cloud / Tools
